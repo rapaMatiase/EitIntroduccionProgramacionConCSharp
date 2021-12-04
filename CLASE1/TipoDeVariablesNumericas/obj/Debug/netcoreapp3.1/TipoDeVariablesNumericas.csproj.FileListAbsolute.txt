@@ -1,0 +1,13 @@
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\TipoDeVariablesNumericas\bin\Debug\netcoreapp3.1\TipoDeVariablesNumericas.exe
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\TipoDeVariablesNumericas\bin\Debug\netcoreapp3.1\TipoDeVariablesNumericas.deps.json
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\TipoDeVariablesNumericas\bin\Debug\netcoreapp3.1\TipoDeVariablesNumericas.runtimeconfig.json
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\TipoDeVariablesNumericas\bin\Debug\netcoreapp3.1\TipoDeVariablesNumericas.runtimeconfig.dev.json
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\TipoDeVariablesNumericas\bin\Debug\netcoreapp3.1\TipoDeVariablesNumericas.dll
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\TipoDeVariablesNumericas\bin\Debug\netcoreapp3.1\TipoDeVariablesNumericas.pdb
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\TipoDeVariablesNumericas\obj\Debug\netcoreapp3.1\TipoDeVariablesNumericas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\TipoDeVariablesNumericas\obj\Debug\netcoreapp3.1\TipoDeVariablesNumericas.AssemblyInfoInputs.cache
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\TipoDeVariablesNumericas\obj\Debug\netcoreapp3.1\TipoDeVariablesNumericas.AssemblyInfo.cs
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\TipoDeVariablesNumericas\obj\Debug\netcoreapp3.1\TipoDeVariablesNumericas.csproj.CoreCompileInputs.cache
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\TipoDeVariablesNumericas\obj\Debug\netcoreapp3.1\TipoDeVariablesNumericas.dll
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\TipoDeVariablesNumericas\obj\Debug\netcoreapp3.1\TipoDeVariablesNumericas.pdb
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\TipoDeVariablesNumericas\obj\Debug\netcoreapp3.1\TipoDeVariablesNumericas.genruntimeconfig.cache

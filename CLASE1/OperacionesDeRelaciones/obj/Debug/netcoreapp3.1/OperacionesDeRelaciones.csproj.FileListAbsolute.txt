@@ -1,0 +1,13 @@
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesDeRelaciones\obj\Debug\netcoreapp3.1\OperacionesDeRelaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesDeRelaciones\obj\Debug\netcoreapp3.1\OperacionesDeRelaciones.AssemblyInfoInputs.cache
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesDeRelaciones\obj\Debug\netcoreapp3.1\OperacionesDeRelaciones.AssemblyInfo.cs
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesDeRelaciones\obj\Debug\netcoreapp3.1\OperacionesDeRelaciones.csproj.CoreCompileInputs.cache
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesDeRelaciones\bin\Debug\netcoreapp3.1\OperacionesDeRelaciones.exe
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesDeRelaciones\bin\Debug\netcoreapp3.1\OperacionesDeRelaciones.deps.json
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesDeRelaciones\bin\Debug\netcoreapp3.1\OperacionesDeRelaciones.runtimeconfig.json
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesDeRelaciones\bin\Debug\netcoreapp3.1\OperacionesDeRelaciones.runtimeconfig.dev.json
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesDeRelaciones\bin\Debug\netcoreapp3.1\OperacionesDeRelaciones.dll
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesDeRelaciones\bin\Debug\netcoreapp3.1\OperacionesDeRelaciones.pdb
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesDeRelaciones\obj\Debug\netcoreapp3.1\OperacionesDeRelaciones.dll
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesDeRelaciones\obj\Debug\netcoreapp3.1\OperacionesDeRelaciones.pdb
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesDeRelaciones\obj\Debug\netcoreapp3.1\OperacionesDeRelaciones.genruntimeconfig.cache

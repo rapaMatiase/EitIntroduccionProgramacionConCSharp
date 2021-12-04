@@ -1,0 +1,13 @@
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesConTexto\obj\Debug\netcoreapp3.1\OperacionesConTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesConTexto\obj\Debug\netcoreapp3.1\OperacionesConTexto.AssemblyInfoInputs.cache
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesConTexto\obj\Debug\netcoreapp3.1\OperacionesConTexto.AssemblyInfo.cs
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesConTexto\obj\Debug\netcoreapp3.1\OperacionesConTexto.csproj.CoreCompileInputs.cache
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesConTexto\bin\Debug\netcoreapp3.1\OperacionesConTexto.exe
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesConTexto\bin\Debug\netcoreapp3.1\OperacionesConTexto.deps.json
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesConTexto\bin\Debug\netcoreapp3.1\OperacionesConTexto.runtimeconfig.json
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesConTexto\bin\Debug\netcoreapp3.1\OperacionesConTexto.runtimeconfig.dev.json
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesConTexto\bin\Debug\netcoreapp3.1\OperacionesConTexto.dll
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesConTexto\bin\Debug\netcoreapp3.1\OperacionesConTexto.pdb
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesConTexto\obj\Debug\netcoreapp3.1\OperacionesConTexto.dll
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesConTexto\obj\Debug\netcoreapp3.1\OperacionesConTexto.pdb
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesConTexto\obj\Debug\netcoreapp3.1\OperacionesConTexto.genruntimeconfig.cache

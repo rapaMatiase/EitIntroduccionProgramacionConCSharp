@@ -1,0 +1,14 @@
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesConVariablesNumericas\bin\Debug\netcoreapp3.1\OperacionesConVariablesNumericas.exe
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesConVariablesNumericas\bin\Debug\netcoreapp3.1\OperacionesConVariablesNumericas.deps.json
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesConVariablesNumericas\bin\Debug\netcoreapp3.1\OperacionesConVariablesNumericas.runtimeconfig.json
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesConVariablesNumericas\bin\Debug\netcoreapp3.1\OperacionesConVariablesNumericas.runtimeconfig.dev.json
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesConVariablesNumericas\bin\Debug\netcoreapp3.1\OperacionesConVariablesNumericas.dll
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesConVariablesNumericas\bin\Debug\netcoreapp3.1\OperacionesConVariablesNumericas.pdb
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesConVariablesNumericas\obj\Debug\netcoreapp3.1\OperacionesConVariablesNumericas.csproj.AssemblyReference.cache
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesConVariablesNumericas\obj\Debug\netcoreapp3.1\OperacionesConVariablesNumericas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesConVariablesNumericas\obj\Debug\netcoreapp3.1\OperacionesConVariablesNumericas.AssemblyInfoInputs.cache
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesConVariablesNumericas\obj\Debug\netcoreapp3.1\OperacionesConVariablesNumericas.AssemblyInfo.cs
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesConVariablesNumericas\obj\Debug\netcoreapp3.1\OperacionesConVariablesNumericas.csproj.CoreCompileInputs.cache
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesConVariablesNumericas\obj\Debug\netcoreapp3.1\OperacionesConVariablesNumericas.dll
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesConVariablesNumericas\obj\Debug\netcoreapp3.1\OperacionesConVariablesNumericas.pdb
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\OperacionesConVariablesNumericas\obj\Debug\netcoreapp3.1\OperacionesConVariablesNumericas.genruntimeconfig.cache

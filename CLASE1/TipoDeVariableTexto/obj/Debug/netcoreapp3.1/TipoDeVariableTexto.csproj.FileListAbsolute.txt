@@ -1,0 +1,13 @@
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\TipoDeVariableTexto\bin\Debug\netcoreapp3.1\TipoDeVariableTexto.exe
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\TipoDeVariableTexto\bin\Debug\netcoreapp3.1\TipoDeVariableTexto.deps.json
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\TipoDeVariableTexto\bin\Debug\netcoreapp3.1\TipoDeVariableTexto.runtimeconfig.json
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\TipoDeVariableTexto\bin\Debug\netcoreapp3.1\TipoDeVariableTexto.runtimeconfig.dev.json
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\TipoDeVariableTexto\bin\Debug\netcoreapp3.1\TipoDeVariableTexto.dll
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\TipoDeVariableTexto\bin\Debug\netcoreapp3.1\TipoDeVariableTexto.pdb
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\TipoDeVariableTexto\obj\Debug\netcoreapp3.1\TipoDeVariableTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\TipoDeVariableTexto\obj\Debug\netcoreapp3.1\TipoDeVariableTexto.AssemblyInfoInputs.cache
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\TipoDeVariableTexto\obj\Debug\netcoreapp3.1\TipoDeVariableTexto.AssemblyInfo.cs
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\TipoDeVariableTexto\obj\Debug\netcoreapp3.1\TipoDeVariableTexto.csproj.CoreCompileInputs.cache
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\TipoDeVariableTexto\obj\Debug\netcoreapp3.1\TipoDeVariableTexto.dll
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\TipoDeVariableTexto\obj\Debug\netcoreapp3.1\TipoDeVariableTexto.pdb
+C:\Users\Eit\Desktop\EitCursoDeCSharp\CLASE1\TipoDeVariableTexto\obj\Debug\netcoreapp3.1\TipoDeVariableTexto.genruntimeconfig.cache

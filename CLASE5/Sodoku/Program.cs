@@ -6,8 +6,13 @@ namespace Sodoku
     {
         static void Main(string[] args)
         {
+            const int VALOR_VACIO = 0;
             //Nosostros determinamos que 0 es el valor que representa que una casilla esta vacia
-            int?[,] sodokuDesboard = new int?[3, 3] { { 0, 0, 0 }, { 0, 0, 0 }, { 0, 0, 0 } };
+            int?[,] sodokuDesboard = new int?[3, 3] { 
+                { VALOR_VACIO, VALOR_VACIO, VALOR_VACIO }, 
+                { VALOR_VACIO, VALOR_VACIO, VALOR_VACIO }, 
+                { VALOR_VACIO, VALOR_VACIO, VALOR_VACIO } 
+            };
             String coordIngresadaI, coordIngresadaJ;
             int coordI, coordJ;
             String formato;
@@ -45,7 +50,7 @@ namespace Sodoku
                 Boolean banderaTodasLasFilasSonDistintas = true;
                 for (int i = 0; i < sodokuDesboard.GetLength(0); i++)
                 {
-                    if (sodokuDesboard[i, 0] != sodokuDesboard[i, 1] && sodokuDesboard[i, 0] != sodokuDesboard[i, 2] && sodokuDesboard[i, 1] != sodokuDesboard[i, 2] && sodokuDesboard[i, 0] != 0 && sodokuDesboard[i, 1] != 0 && sodokuDesboard[i, 2] != 0)
+                    if (sodokuDesboard[i, 0] != sodokuDesboard[i, 1] && sodokuDesboard[i, 0] != sodokuDesboard[i, 2] && sodokuDesboard[i, 1] != sodokuDesboard[i, 2] && sodokuDesboard[i, 0] != VALOR_VACIO && sodokuDesboard[i, 1] != VALOR_VACIO && sodokuDesboard[i, 2] != VALOR_VACIO)
                     {
                         continue;
                     }
@@ -59,7 +64,7 @@ namespace Sodoku
                 Boolean banderaTodasLasColumnasSonDistintas = true;
                 for (int j = 0; j < sodokuDesboard.GetLength(0); j++)
                 {
-                    if (sodokuDesboard[0, j] != sodokuDesboard[1, j] && sodokuDesboard[0, j] != sodokuDesboard[2, j] && sodokuDesboard[1, j] != sodokuDesboard[2, j] && sodokuDesboard[0, j] != 0 && sodokuDesboard[1, j] != 0 && sodokuDesboard[2, j] != 0)
+                    if (sodokuDesboard[0, j] != sodokuDesboard[1, j] && sodokuDesboard[0, j] != sodokuDesboard[2, j] && sodokuDesboard[1, j] != sodokuDesboard[2, j] && sodokuDesboard[0, j] != VALOR_VACIO  && sodokuDesboard[1, j] != VALOR_VACIO && sodokuDesboard[2, j] != VALOR_VACIO)
                     {
                         continue;
                     }

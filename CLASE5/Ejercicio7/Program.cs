@@ -32,6 +32,7 @@ namespace Ejercicio7
             int[] array3 = new int[3] { 2, 2, 3 };
 
             String resultado = ControlarElementosDeArraySonDistintos(array);
+            //Puedo utilizar la misma funcion varias veces con distintos o el mismo array.
             String resultado2 = ControlarElementosDeArraySonDistintos(array2);
             String resultado3 = ControlarElementosDeArraySonDistintos(array3);
 
